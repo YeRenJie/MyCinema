@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="MyCinema.Models.Cinema">
+    <Position X="4.25" Y="0.5" Width="2.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAgIAAAAAAAAAAAgAAAAIAAEAAAABgAAAAIAAAAAA=</HashCode>
+      <FileName>Models\Cinema.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyCinema.Models.FreeTicket">
+    <Position X="0.5" Y="4.25" Width="2" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAQAAAAEAAAAAAAAAEAAA=</HashCode>
+      <FileName>Models\FreeTicket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyCinema.Models.Movie">
+    <Position X="5" Y="3" Width="2" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQBABAEAQAQgAAAAIAAAAAACAAAEAgAABAAAAAAAAA=</HashCode>
+      <FileName>Models\Movie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyCinema.Models.Schedule">
+    <Position X="7.25" Y="0.5" Width="3.25" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAgAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Schedule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyCinema.Models.ScheduleItem">
+    <Position X="7.25" Y="2.5" Width="2" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Models\ScheduleItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyCinema.Models.Seat">
+    <Position X="7.25" Y="4.5" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAAACACAAAAAgAAAAAA=</HashCode>
+      <FileName>Models\Seat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyCinema.Models.StudentTicket">
+    <Position X="2.75" Y="4.25" Width="2" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAgAAAAIEAAA=</HashCode>
+      <FileName>Models\StudentTicket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyCinema.Models.Ticket">
+    <Position X="1.5" Y="0.5" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQAAAABAAAAAQAIIAAAACAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Models\Ticket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyCinema.Models.TicketFactory">
+    <Position X="9.25" Y="4.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\TicketFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="MyCinema.Models.MovieType">
+    <Position X="9.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAIAIAAAAAAAAAAIACAEAAAAAQ=</HashCode>
+      <FileName>Models\Movie.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="宋体" Size="9" />
+</ClassDiagram>
